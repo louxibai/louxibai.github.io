@@ -1,15 +1,15 @@
 ---
 title: "Learning to generate 6-dof grasp poses with reachability awareness"
 collection: publications
-permalink: /publication/2009-10-01-paper-title-number-1
+permalink: /publication/1910.06404
 excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
-date: 2009-10-01
+date: 2019-09-15
 venue: 'Journal 1'
 paperurl: 'http://louxibai.github.io/files/1910.06404.pdf'
-citation: 'Your Name, You. (2009). &quot;Paper Title Number 1.&quot; <i>Journal 1</i>. 1(1).'
+citation: ' X Lou, Y Yang, C Choi <i> 2020 IEEE International Conference on Robotics and Automation (ICRA), 1532-1538 </i>.'
 ---
-This paper is about the number 1. The number 2 is left for future work.
+We proposed a voxel-based deep 3D Convolutional Neural Network (3D CNN) that generates feasible 6-DoF grasp poses in unrestricted workspace with reachability awareness. Unlike the majority of works that predict if a proposed grasp pose within the restricted workspace will be successful solely based on grasp pose stability, our approach further learns a reachability predictor that evaluates if the grasp pose is reachable by exploit a large-scale synthetic dataset. 
 
 [Download paper here](http://louxibai.github.io/files/1910.06404.pdf)
 
-Recommended citation: Lou, Xibai. (2019). "Learning to generate 6-dof grasp poses with reachability awareness" <i>ICRA 2020</i>.
+Recommended citation: X Lou, Y Yang, C Choi <i> 2020 IEEE International Conference on Robotics and Automation (ICRA), 1532-1538 </i>.

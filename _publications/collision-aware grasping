@@ -4,12 +4,8 @@ collection: publications
 permalink: /publication/collision-aware grasping
 excerpt: 'Typical 6-DoF robotic grasping systems rely on the prior knowledge about the environment and intensive planning computation, which is ungeneralizable and inefficient. In contrast, we propose a novel Collision-Aware Reachability Predictor (CARP) for 6-DoF grasping systems, it learns to estimate the collision-free probabilities for grasp poses and significantly improves grasping in challenging environments.'
 date: 2020-10-31
-venue: 'Journal 1'
+venue: 'ICRA 2021'
 paperurl: 'http://louxibai.github.io/files/2104.00776.pdf'
 citation: 'X Lou, Y Yang, C Choi <i> IEEE International Conference on Robotics and Automation (ICRA) <i>.'
 ---
-Typical 6-DoF robotic grasping systems rely on the prior knowledge about the environment and intensive planning computation, which is ungeneralizable and inefficient. In contrast, we propose a novel Collision-Aware Reachability Predictor (CARP) for 6-DoF grasping systems, it learns to estimate the collision-free probabilities for grasp poses and significantly improves grasping in challenging environments. 
-
-[Download paper here](http://louxibai.github.io/files/2104.00776.pdf)
-
 Recommended citation: X Lou, Y Yang, C Choi <i> IEEE International Conference on Robotics and Automation (ICRA) <i>.

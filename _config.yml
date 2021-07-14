@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Xibai Lou"
   avatar           : "profile.jpg"
-  bio              : "Ph.D. Student, Department of Electrical & Computer Engineering, University of Minnesota Twin Cities"
+  bio              : "Ph.D. Student at the University of Minnesota"
   location         : "Minneapolis, MN"
   employer         :
   pubmed           :
@@ -103,13 +103,13 @@ author:
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
   linkedin         :
-  orcid            : "http://orcid.org/yourorcidurl"
+  orcid            : 
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "replacethistwitterhandle"
+  twitter          :
   vine             :
   weibo            :
   xing             :

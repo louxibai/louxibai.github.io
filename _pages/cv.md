@@ -11,9 +11,9 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* B.S. in Electrical and Computer Engineering, Georgia Institute of Technology, 2014
+* M.S. in Electrical and Computer Engineering, Georgia Institute of Technology, 2015
+* Ph.D in Electrical and Computer Engineering, University of Minnesota Twin Cities, expected 2022
 
 Work experience
 ======
@@ -41,12 +41,7 @@ Publications
   <ul>{% for post in site.publications %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
-  
-Talks
-======
-  <ul>{% for post in site.talks %}
-    {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul>
+
   
 Teaching
 ======

@@ -1,0 +1,8 @@
+---
+title: "Learning Visual Affordances with Target-Orientated Deep Q-Network to Grasp Objects by Harnessing Environmental Fixtures"
+collection: publications
+permalink: /publication/KIDQN
+excerpt: 'Real-world objects may not be graspable with a single parallel gripper, but only with harnessing environment fixtures (e.g., walls, furniture, heavy objects). A slide-to-wall action is proposed as well as the Target-Oriented Deep Q-Network (TO-DQN) to efficiently learn visual affordance maps (i.e., Q-maps) to guide robot actions.
+paperurl: 'https://arxiv.org/pdf/1910.03781.pdf'
+citation: 'Hengyue Liang, Xibai Lou, Yang Yang and Changhyun Choi, <i> Learning Visual Affordances with Target-Orientated Deep Q-Network to Grasp Objects by Harnessing Environmental Fixtures, ICRA 2021. </i>'
+---

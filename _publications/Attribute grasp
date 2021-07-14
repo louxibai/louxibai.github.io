@@ -2,7 +2,7 @@
 title: "Attribute-Based Robotic Grasping with One-Grasp Adaptation"
 collection: publications
 permalink: /publication/Attribute grasp
-excerpt: 'This paper is about the number 2. The number 3 is left for future work.'
+excerpt: 'We introduce an end-to-end learning method of attribute-based robotic grasping with one-grasp adaptation capability. Our approach fuses the embeddings of a workspace image and a query text using a gated-attention mechanism and learns to predict instance grasping affordances.'
 date: 2021-06-01
 venue: 'ICRA'
 paperurl: 'https://arxiv.org/pdf/2104.02271.pdf'

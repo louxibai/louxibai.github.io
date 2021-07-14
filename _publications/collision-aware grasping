@@ -2,7 +2,7 @@
 title: "Collision-Aware Target-Driven Object Grasping in Constrained Environments"
 collection: publications
 permalink: /publication/collision-aware grasping
-excerpt: 'Typical 6-DoF robotic grasping systems rely on the prior knowledge about the environment and intensive planning computation, which is ungeneralizable and inefficient. In contrast, we propose a novel Collision-Aware Reachability Predictor (CARP) for 6-DoF grasping systems, it learns to estimate the collision-free probabilities for grasp poses and significantly improves grasping in challenging environments.'
+excerpt: 'We propose a novel Collision-Aware Reachability Predictor (CARP) for 6-DoF grasping systems that learns to estimate the collision-free probabilities from partial/noisy observations and significantly improves grasping efficiency in challenging environments.'
 date: 2021-06-01
 venue: 'IEEE International Conference on Robotics and Automation (ICRA)'
 paperurl: 'https://arxiv.org/pdf/2104.00776.pdf'
